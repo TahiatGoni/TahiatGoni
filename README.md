@@ -1,5 +1,8 @@
 ## Hi there 👋
+### I am a Computer Engineer (E.I.T) 
+What I like is being able to work at the lower level programming microcontrollers such as the ESP32 and at the higher level creating web applications using popular JS tools like React and Express.
 
+I just like all things computer to be honest!
 <!--
 **TahiatGoni/TahiatGoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🖥️ Love installing and trying out Linux distros. Currently using Manjaro.
+- 👨🏽‍💻 I am currently trying to create a simple Window Manager as a learning experience.
+
+Reach me at: tahiatg@gmail.com
