@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🖥️ Love installing and trying out Linux distros. Currently using Manjaro.
-- 👨🏽‍💻 I am currently trying to create a simple Window Manager as a learning experience.
+- 👨🏽‍💻 I am currently creating an terminal application called [my_reading_backlog](https://github.com/TahiatGoni/my_reading_backlog).
 
 Reach me at: tahiatg@gmail.com
